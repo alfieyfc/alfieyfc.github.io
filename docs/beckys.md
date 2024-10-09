@@ -1,4 +1,10 @@
-# 背鰭麻將 (Becky's Mahjong)
+---
+title: Privacy Policy
+layout: default
+permalink: /beckys/
+---
+
+## 背鰭麻將 (Becky's Mahjong)
 
 ![Logo](../assets/beckys/logo.png)
 
