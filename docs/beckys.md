@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Becky's Mahjong
 layout: default
 permalink: /beckys/
 ---
