@@ -4,67 +4,47 @@ layout: default
 permalink: /privacy/
 ---
 
-**Privacy Policy**
+## Privacy Policy
 
-This SERVICE is provided by alfieyfc.info, built by AlfieYFC, at no cost and is intended for use as is.
+### Introduction
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Becky's Mahjong ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our application.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+### Information We Collect
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at 背鰭麻將 unless otherwise defined in this Privacy Policy.
+We collect information that you provide directly to us, such as when you create an account, update your profile, or use our services. This information may include your name, email address, and any other information you choose to provide.
 
-**Information Collection and Use**
+### Use of Information
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email. The information that I request will be retained on your device and is not collected by me in any way.
+We use the information we collect to:
+- Provide, maintain, and improve our services
+- Communicate with you about products, services, and events
+- Monitor and analyze trends, usage, and activities in connection with our services
 
-The app does use third-party services that may collect information used to identify you.
+### Google User Data
 
-Link to the privacy policy of third-party service providers used by the app
+Our application uses Google Spreadsheets API to fetch data related to your Mahjong scores and rankings. We request access to your Google account to authenticate and fetch this data.
 
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+### Retention of Google User Data
 
-**Log Data**
+We retain your Google user data only as long as necessary to provide you with our services. Specifically, we retain your data for the duration of your participation in Becky's Mahjong league. If you choose to leave the league or if your membership is terminated, we will delete your Google user data within 30 days.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+### Deletion of Google User Data
 
-**Cookies**
+You have the right to request the deletion of your Google user data at any time. To request deletion, please contact us at [your contact email]. Upon receiving your request, we will delete your data within 30 days.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+### Sharing of Information
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We do not share your personal information with third parties except as described in this Privacy Policy. We may share information with vendors, consultants, and other service providers who need access to such information to carry out work on our behalf.
 
-**Service Providers**
+### Security
 
-I may employ third-party companies and individuals due to the following reasons:
+We take reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+### Changes to This Privacy Policy
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may update this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide additional notice (such as adding a statement to our homepage or sending you a notification).
 
-**Security**
+### Contact Us
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2024-10-09
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at alfieyfc@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions about this Privacy Policy, please contact us at [your contact email].
