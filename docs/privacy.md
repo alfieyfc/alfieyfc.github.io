@@ -31,7 +31,7 @@ We retain your Google user data only as long as necessary to provide you with ou
 
 ### Deletion of Google User Data
 
-You have the right to request the deletion of your Google user data at any time. To request deletion, please contact us at [your contact email]. Upon receiving your request, we will delete your data within 30 days.
+You have the right to request the deletion of your Google user data at any time. To request deletion, please contact us at alfieyfc@gmail.com. Upon receiving your request, we will delete your data within 30 days.
 
 ### Sharing of Information
 
@@ -47,4 +47,4 @@ We may update this Privacy Policy from time to time. If we make changes, we will
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [your contact email].
+If you have any questions about this Privacy Policy, please contact us at alfieyfc@gmail.com.
